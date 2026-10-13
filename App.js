@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from "react-native";
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Someone changed the files</Text>
+      <Text>Someone changed the files again</Text>
     </View>
   );
 }
